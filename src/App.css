@@ -1,0 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@500&display=swap");
+.app {
+  font-family: "Source Code Pro", monospace;
+  background: linear-gradient(45deg, rgb(0, 0, 0), rgb(80, 80, 80));
+}
